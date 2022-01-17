@@ -5,6 +5,8 @@
 
 （1）把 IP 都放到 ip.txt 文件中
 
+![](https://github.com/NyDubh3/CDN-Filter/blob/main/images/image2.jpg?raw=true)
+
 （2）执行以下命令
 
 ```
